@@ -264,17 +264,17 @@
       style: pink
       url: https://bilibili.com/
 
-    # - name: AcFun
-    #   style: basic
-    #   url: https://acfun.cn/
-
-    - name: 腾讯动漫
+    - name: AcFun
       style: basic
-      url: https://ac.qq.com/
+      url: https://acfun.cn/
 
-    - name: 虾米
+    - name: 斗鱼
       style: orange
-      url: https://xiami.com/
+      url: https://www.douyu.com/
+
+    #- name: 虾米
+    #  style: basic
+    #  url: https://xiami.com/
 
     - name: 豆瓣电影
       icon: film blue
@@ -309,9 +309,9 @@
       style: blue
       url: https://pan.bitqiu.com/
 
-    - name: 斗鱼
+    - name: 虎牙
       style: orange
-      url: https://douyu.com/
+      url: https://huya.com/
 
 - categories:
   - name: 北邮校园
