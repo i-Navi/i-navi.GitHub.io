@@ -14,14 +14,18 @@
         <img class="ui centered image" src="{{ site.logo_dark }}" alt="Logo">
     </h1>
     <h2 class="ui inverted header">中国加油 · 武汉加油</h2>
-        <div class="ui inverted selection link list">
-         <table border=0 cellspacing=1 cellpadding=0 width=’98%’>
-<td valign="top"><div align="center">
+
+
+<table border=0 cellspacing=1 cellpadding=0 width=’98%’>
+<td valign="top">
+        <div class="ui inverted selection link list" align="center">
+         <a class="item" href="http://www.cctv.com/">
 <iframe src="http://www.cctv.com/homepage/46/index.shtml"; name="express"
 width="354" height="16" marginwidth="0" marginheight="0" frameborder="0"
-scrolling="no"></iframe></div></table>
-          <a class="item" href="http://www.cctv.com/"></a>
+scrolling="no"></iframe>
+       </a>
     </div>
+</table>
     <div id="search-shortcuts" class="ui labels">
         {% for item in site.data.search_services %}{% if item.shortcut %}<a class="ui {{ item.shortcut.style }} label{% unless item.shortcut.show %} hidden{% endunless %}" data-search-service-id="{{ item.id }}" data-tooltip="{{ item.name }}" data-variation="mini basic" data-position="top center" data-inverted=""><i class="{{ item.shortcut.icon }} fitted icon"></i></a>{% endif %}{% endfor %}
     </div>
