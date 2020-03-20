@@ -1,0 +1,9 @@
+show: true
+memorial: false
+hitokoto: false
+content: COVID-19新型冠状病毒肺炎
+detail: 疫情地图 实时动态
+color: red
+icon: biohazard
+image: false
+link: https://voice.baidu.com/act/newpneumonia/newpneumonia/
