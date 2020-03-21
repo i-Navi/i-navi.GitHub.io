@@ -97,11 +97,11 @@
 
     - name: 哔哩哔哩
       style: pink
-      url: https://bilibili.com/
+      url: https://www.bilibili.com/
 
     - name: AcFun
       style: basic
-      url: https://acfun.cn/
+      url: https://www.acfun.cn/
 
     - name: 虾米音乐
       style: basic
