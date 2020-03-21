@@ -180,7 +180,7 @@
       url: https://asahichinese-j.com/
       
     - name: NHK华语视界
-      icon: film red
+      icon: tv red
       style: basic
       url: https://www3.nhk.or.jp/nhkworld/zh/live/
       
@@ -297,18 +297,20 @@
     - name: 老D博客
       style: basic
       url: https://laod.cn/
+      
+    - name: 厘米天空
+      icon: align left red
+      style: basic
+      url: https://www.cmsky.com/
 
     - name: 胡萝卜周
       style: basic
       url: http://www.carrotchou.blog/
 
     - name: 异次元软件世界
+      icon: gg blue
       style: basic
       url: https://www.iplaysoft.com/
-
-    - name: 厘米天空
-      style: basic
-      url: https://www.cmsky.com/
 
 - categories:
   - name: 在线学习
