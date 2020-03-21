@@ -119,9 +119,9 @@
       url: https://outlook.live.com/
 
     - name: 网易邮箱
-       icon: envelope red
-       style: basic
-       url: http://email.163.com/
+      icon: envelope red
+      style: basic
+      url: http://email.163.com/
 
     - name: QQ邮箱
       icon: qq black
