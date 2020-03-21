@@ -160,7 +160,8 @@
       url: https://www.bbc.com/zhongwen/simp
 
     - name: 路透社
-      style: orange
+      icon: archway orange
+      style: basic
       url: https://cn.reuters.com/
 
     - name: 法国国际广播电台
@@ -213,7 +214,8 @@
       url: http://news.mingjingnews.com/
 
     - name: 看中国
-      style: brown
+      icon: eye yellow
+      style: basic
       url: https://www.secretchina.com/
 
     - name: 美国之音
