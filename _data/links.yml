@@ -309,14 +309,9 @@
       style: basic
       url: https://www.cnbeta.com/
 
-    - name: 云英语
-      style: basic
-      url: https://www.y-english.org/
-
     - name: W3School
       style: basic
       url: http://www.w3school.com.cn/
-
 
     - name: 思否
       style: basic
