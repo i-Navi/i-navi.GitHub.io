@@ -1,3 +1,4 @@
+  
 
 
 - categories:
@@ -97,7 +98,7 @@
       url: http://www.yyetss.com/
 
     - name: 哔哩哔哩
-      style: pink
+      style: basic
       url: https://www.bilibili.com/
 
     - name: AcFun
@@ -105,7 +106,7 @@
       url: https://www.acfun.cn/
 
     - name: 虾米音乐
-      icon: music Orange
+      icon: music orange
       style: basic
       url: https://xiami.com/
 
@@ -123,7 +124,7 @@
       url: http://wanwansub.com/node/139
 
     - name: 影视基地
-      style: purple
+      style: basic
       url: http://sjadasd.com/
 
     - name: JavBus
@@ -150,7 +151,8 @@
   - name: 新闻
     links:
     - name: 纽约时报
-      style: black
+      icon: newspaper outline
+      style: basic
       url: https://cn.nytimes.com/
 
     - name: BBC中文网
@@ -178,7 +180,8 @@
       url: https://asahichinese-j.com/
       
     - name: NHK华语视界
-      style: red
+      icon: film red
+      style: basic
       url: https://www3.nhk.or.jp/nhkworld/zh/live/
       
     - name: 美国中文网
@@ -302,47 +305,6 @@
       style: basic
       url: https://www.cmsky.com/
 
-    #- name: 教务处
-    #  style: basic
-    #  url: http://jwc.bupt.edu.cn/
-
-    #- name: 北邮人论坛
-    #  style: basic
-    #  url: https://bbs.byr.cn/
-
-    #- name: 北邮人BT
-    #  style: blue
-    #  url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
-
-    #- name: 北邮IPTV
-    #  style: basic
-    #  url: http://tv.byr.cn/
-
-    #- name: 信息门户
-    #  style: basic
-    #  url: http://my.bupt.edu.cn/
-
-    #- name: 图书馆
-    #  style: basic
-    #  url: http://lib.bupt.edu.cn/
-
-    #- name: 北邮贴吧
-    #  style: basic
-    #  url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
-
-    #- name: 校园网
-    #  style: basic
-    #  url: http://nic.bupt.edu.cn/
-
-    #- name: 北邮邮箱
-    #  style: basic
-    #  url: http://mail.bupt.edu.cn/
-
-    #- name: VPN服务
-    #  style: basic
-    #  url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
-
-
 - categories:
   - name: 在线学习
     links:
@@ -388,10 +350,6 @@
       style: basic
       url: https://edu.csdn.net/
 
-    #- name: 空闲自习室查询
-    #  style: basic
-    #  url: http://buptclass.com/
-
   - name: 图形设计
     links:
     - name: Fomantic-Icon
@@ -430,30 +388,6 @@
     - name: 90设计
       style: basic
       url: http://90sheji.com/
-
-    #- name: 创新实践平台
-    #  style: basic
-    #  url: http://cslab.bupt.edu.cn/innovation/
-
-    #- name: 申请护照通行证
-    #  style: basic
-    #  url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    #- name: 补办学生证
-    #  style: basic
-    #  url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    #- name: 校园一卡通
-    #  style: basic
-    #  url: http://ecard.bupt.edu.cn/
-
-    #- name: 办公电话
-    #  style: basic
-    #  url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-    #- name: 校历
-    #  style: basic
-    #  url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
   - name: 论坛相关
     links:
