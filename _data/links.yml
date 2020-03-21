@@ -73,6 +73,11 @@
 
   - name: 工具
     links:
+    - name: 票根网
+      icon: car red
+      style: basic
+      url: https://www.txffp.com/
+
     - name: '12306'
       icon: train red
       style: basic
@@ -84,7 +89,7 @@
       url: http://www.kuaidi100.com/
 
     - name: Outlook
-      icon: envelope blue
+      icon: windows blue
       style: basic
       url: https://outlook.live.com/
 
@@ -93,10 +98,10 @@
     #   style: basic
     #   url: http://email.163.com/
 
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
+    #- name: QQ邮箱
+    #  icon: qq black
+    #  style: basic
+    #  url: https://mail.qq.com/
 
     - name: Yeah邮箱
       icon: envelope red
@@ -239,26 +244,26 @@
       style: basic
       url: https://youku.com/
 
+    - name: 腾讯视频
+      style: basic
+      url: https://v.qq.com/
+
     # - name: 土豆
     #   style: basic
     #   url: https://tudou.com/
-
-    - name: Youtube
-      icon: youtube red
-      style: basic
-      url: https://youtube.com/
 
     - name: 爱奇艺
       style: green
       url: https://iqiyi.com/
 
-    - name: 芒果
-      style: orange
-      url: http://mgtv.com/
+    - name: 人人
+      style: blue
+      url: http://www.yyetss.com/
 
-    - name: 腾讯视频
+    - name: Youtube
+      icon: youtube red
       style: basic
-      url: https://v.qq.com/
+      url: https://youtube.com/
 
     - name: 哔哩哔哩
       style: pink
@@ -268,13 +273,9 @@
       style: basic
       url: https://acfun.cn/
 
-    - name: 斗鱼
-      style: orange
-      url: https://www.douyu.com/
-
-    #- name: 虾米
-    #  style: basic
-    #  url: https://xiami.com/
+    - name: 虾米
+      style: basic
+      url: https://xiami.com/
 
     - name: 豆瓣电影
       icon: film blue
@@ -283,15 +284,11 @@
 
     - name: FIX
       style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
+      url: http://www.zimuxia.cn/
 
     - name: 弯弯
       style: blue
       url: http://wanwansub.com/node/139
-
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
 
     - name: 影视基地
       style: purple
@@ -313,171 +310,176 @@
       style: orange
       url: https://huya.com/
 
+    - name: 斗鱼
+      style: basic
+      url: https://www.douyu.com/
+
 - categories:
-  - name: 北邮校园
+  - name: 软件博客
     links:
-    - name: 北邮官网
+    - name: 老D博客
       style: pink
-      url: http://www.bupt.edu.cn/
+      url: https://laod.cn/
 
-    - name: 官方导航
+    - name: 胡萝卜周
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: http://www.carrotchou.blog/
 
-    - name: 本科教务系统
+    - name: 异次元软件世界
       style: basic
-      url: http://jwxt.bupt.edu.cn/
+      url: https://www.iplaysoft.com/
 
-    - name: 研究生教务系统
+    - name: 厘米天空
       style: basic
-      url: http://yjxt.bupt.edu.cn/
+      url: https://www.cmsky.com/
 
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
+    #- name: 教务处
+    #  style: basic
+    #  url: http://jwc.bupt.edu.cn/
 
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
+    #- name: 北邮人论坛
+    #  style: basic
+    #  url: https://bbs.byr.cn/
 
-    - name: 北邮人BT
-      style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+    #- name: 北邮人BT
+    #  style: blue
+    #  url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
 
-    - name: 北邮IPTV
-      style: basic
-      url: http://tv.byr.cn/
+    #- name: 北邮IPTV
+    #  style: basic
+    #  url: http://tv.byr.cn/
 
-    - name: 信息门户
-      style: basic
-      url: http://my.bupt.edu.cn/
+    #- name: 信息门户
+    #  style: basic
+    #  url: http://my.bupt.edu.cn/
 
-    - name: 图书馆
-      style: basic
-      url: http://lib.bupt.edu.cn/
+    #- name: 图书馆
+    #  style: basic
+    #  url: http://lib.bupt.edu.cn/
 
-    - name: 北邮贴吧
-      style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+    #- name: 北邮贴吧
+    #  style: basic
+    #  url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
 
-    - name: 校园网
-      style: basic
-      url: http://nic.bupt.edu.cn/
+    #- name: 校园网
+    #  style: basic
+    #  url: http://nic.bupt.edu.cn/
 
-    - name: 北邮邮箱
-      style: basic
-      url: http://mail.bupt.edu.cn/
+    #- name: 北邮邮箱
+    #  style: basic
+    #  url: http://mail.bupt.edu.cn/
 
-    - name: VPN服务
-      style: basic
-      url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
+    #- name: VPN服务
+    #  style: basic
+    #  url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
 
-    - name: 空闲自习室查询
-      style: basic
-      url: http://buptclass.com/
+    #- name: 空闲自习室查询
+    #  style: basic
+    #  url: http://buptclass.com/
 
-  - name: 校园助手
+  - name: 图形设计
     links:
-    - name: 空余教室查询
+    - name: Fomantic-Icon
+      icon: facebook square Turquoise
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: https://fomantic-ui.com/elements/icon.html
 
-    - name: 辅修专业
+    - name: 颜色码对照表
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: https://www.sioe.cn/yingyong/yanse-rgb-16/
 
-    - name: 毕业设计
+    - name: 图片转SVG
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: http://www.bejson.com/convert/image_to_svg/
 
-    - name: 学生校际选修
+    - name: 免费PNG大全
       style: basic
-      url: http://www.xueyuanlu.cn/
+      url: https://www.zhihu.com/question/59892678
 
-    - name: 创新学分
+    - name: 觅图网
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+      url: https://www.mituwang.com/
 
-    - name: 课表查询
+    - name: 觅元素
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
+      url: http://www.51yuansu.com/
 
-    - name: 考表查询
+    - name: 千库网
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
+      url: https://588ku.com/
 
-    - name: 出国成绩单办理
+    - name: 快图网
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
+      url: http://www.kuaipng.com/
 
-    - name: 教学事务流程
+    - name: 90设计
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
+      url: http://90sheji.com/
 
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
+    #- name: 创新实践平台
+    #  style: basic
+    #  url: http://cslab.bupt.edu.cn/innovation/
 
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+    #- name: 申请护照通行证
+    #  style: basic
+    #  url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
 
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
+    #- name: 补办学生证
+    #  style: basic
+    #  url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
 
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
+    #- name: 校园一卡通
+    #  style: basic
+    #  url: http://ecard.bupt.edu.cn/
 
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
+    #- name: 办公电话
+    #  style: basic
+    #  url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
 
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+    #- name: 校历
+    #  style: basic
+    #  url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
   - name: 论坛相关
     links:
-    - name: 北邮人论坛
+    - name: 电影天堂
       style: teal
-      url: http://bbs.byr.cn/
+      url: https://www.dytt8.net/
 
-    - name: 游客版论坛
+    - name: 6V电影
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: http://www.6vhao.tv/
 
-    - name: 检索论坛内容
+    - name: BT之家
       style: basic
-      url: http://search.icybee.cn/
+      url: http://www.btjia.com/
 
-    - name: 检索用户发帖
+    - name: 中国高清网
       style: basic
-      url: http://search.lovezxp.com/
+      url: http://gaoqing.la/
 
-    - name: 查看论坛数据
+    - name: HD-China
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+      url: https://www.hdchina.net/
 
-    - name: 论坛APP
-      icon: app store
+    - name: 网页激活
+      icon: microsoft White
       style: black
-      url: http://itunes.apple.com/cn/app/bei-you-ren-lun-tan-bei-you/id1115232927
+      url: http://webact.185.hk/?u=tieba
 
-    - name: 论坛APP
-      icon: google play
+    - name: GPS之家
+      icon: map marked alternate White
       style: black
-      url: https://github.com/dss886/BYR-BBS-APP-Release
+      url: http://bbs.gpsuu.com/
 
-    - name: 论坛官方微博
-      style: basic
-      url: http://weibo.com/byrbbs
+    - name: 爱好论坛
+      style: teal
+      url: http://www.aihao.cc/
 
-    - name: 论坛投票区
+    - name: 老百姓虎
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: https://www.laobaixinghu.com/
 
-    - name: 玩转论坛指南
+    - name: 自由上网方法
       style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
+      url: https://github.com/Alvin9999/new-pac/wiki
