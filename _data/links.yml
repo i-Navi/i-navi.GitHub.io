@@ -279,6 +279,11 @@
 
   - name: 软件
     links:
+    - name: Chrome扩展
+      icon: chrome red
+      style: basic
+      url: http://webact.185.hk/?u=tieba
+
     - name: 自由上网方法
       icon: paper plane blue
       style: basic
