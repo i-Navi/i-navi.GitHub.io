@@ -3,25 +3,17 @@
 - categories:
   - name: 新闻
     links:
-    - name: 路透社
-      style: orange
-      url: https://cn.reuters.com/
-
-    - name: 联合早报
-      style: red
-      url: http://www.zaobao.com/
-
     - name: 纽约时报
       style: black
       url: https://cn.nytimes.com/
-      
-    - name: NHK华语视界
-      style: basic
-      url: https://www3.nhk.or.jp/nhkworld/zh/live/
 
     - name: BBC中文网
       style: black
       url: https://www.bbc.com/zhongwen/simp
+
+    - name: 路透社
+      style: orange
+      url: https://cn.reuters.com/
 
     - name: 法广
       style: basic
@@ -31,9 +23,17 @@
       style: basic
       url: https://www.chineseherald.co.nz/
 
+    - name: 联合早报
+      style: basic
+      url: http://www.zaobao.com/
+
     - name: 朝日新闻
-      style: red
+      style: basic
       url: https://asahichinese-j.com/
+      
+    - name: NHK华语视界
+      style: red
+      url: https://www3.nhk.or.jp/nhkworld/zh/live/
       
     - name: 美国中文网
       style: basic
@@ -56,7 +56,7 @@
       url: https://boxun.com/
 
     - name: 多维
-      style: black
+      style: brown
       url: https://www.dwnews.com/
       
     - name: 明镜网
@@ -68,11 +68,26 @@
       url: https://www.secretchina.com/
 
     - name: 美国之音
-      style: brown
+      style: basic
       url: https://www.voachinese.com/
 
   - name: 工具
     links:
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: https://fanyi.baidu.com/
+
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.com/
+
     - name: 票根网
       icon: car red
       style: basic
@@ -88,20 +103,30 @@
       style: basic
       url: http://www.kuaidi100.com/
 
+    - name: 中国天气
+      icon: sun red
+      style: basic
+      url: http://www.weather.com.cn/
+
+    - name: 天眼查
+      icon: eye blue
+      style: basic
+      url: https://www.tianyancha.com/
+
     - name: Outlook
       icon: windows blue
       style: basic
       url: https://outlook.live.com/
 
-    # - name: 网易邮箱
-    #   icon: envelope red
-    #   style: basic
-    #   url: http://email.163.com/
+    - name: 网易邮箱
+       icon: envelope red
+       style: basic
+       url: http://email.163.com/
 
-    #- name: QQ邮箱
-    #  icon: qq black
-    #  style: basic
-    #  url: https://mail.qq.com/
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
 
     - name: Yeah邮箱
       icon: envelope red
@@ -112,30 +137,6 @@
       icon: google red
       style: basic
       url: https://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
-    - name: 中国天气
-      icon: cloud olive
-      style: basic
-      url: http://www.weather.com.cn/
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
 
   - name: 社交
     links:
@@ -318,7 +319,7 @@
   - name: 软件博客
     links:
     - name: 老D博客
-      style: pink
+      style: Blue
       url: https://laod.cn/
 
     - name: 胡萝卜周
@@ -380,8 +381,8 @@
   - name: 图形设计
     links:
     - name: Fomantic-Icon
-      icon: facebook square Turquoise
-      style: basic
+      icon: facebook square teal
+      style: pink
       url: https://fomantic-ui.com/elements/icon.html
 
     - name: 颜色码对照表
@@ -442,8 +443,23 @@
 
   - name: 论坛相关
     links:
-    - name: 电影天堂
+    - name: 自由上网方法
+      icon: paper plane Blue
       style: teal
+      url: https://github.com/Alvin9999/new-pac/wiki
+
+    - name: 网页激活
+      icon: microsoft White
+      style: black
+      url: http://webact.185.hk/?u=tieba
+
+    - name: GPS之家
+      icon: map marked alternate White
+      style: black
+      url: http://bbs.gpsuu.com/
+
+    - name: 电影天堂
+      style: basic
       url: https://www.dytt8.net/
 
     - name: 6V电影
@@ -462,24 +478,10 @@
       style: basic
       url: https://www.hdchina.net/
 
-    - name: 网页激活
-      icon: microsoft White
-      style: black
-      url: http://webact.185.hk/?u=tieba
-
-    - name: GPS之家
-      icon: map marked alternate White
-      style: black
-      url: http://bbs.gpsuu.com/
-
     - name: 爱好论坛
-      style: teal
+      style: basic
       url: http://www.aihao.cc/
 
     - name: 老百姓虎
       style: basic
       url: https://www.laobaixinghu.com/
-
-    - name: 自由上网方法
-      style: basic
-      url: https://github.com/Alvin9999/new-pac/wiki
