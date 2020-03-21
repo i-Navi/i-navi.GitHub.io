@@ -185,9 +185,13 @@
       style: basic
       url: https://www3.nhk.or.jp/nhkworld/zh/live/
       
-    - name: 美国中文网
+    - name: 美国之音
       style: basic
-      url: http://www.sinovision.net/
+      url: https://www.voachinese.com/
+      
+    - name: 明镜网
+      style: basic
+      url: http://news.mingjingnews.com/
 
     - name: 阿波罗
       icon: sun outline orange
@@ -198,30 +202,9 @@
       style: blue
       url: https://chinadigitaltimes.net/chinese/
 
-    - name: 万维读者
-      style: basic
-      url: http://www.creaders.net/
-
-    - name: 博讯
+    - name: 博讯新闻
       style: basic
       url: https://boxun.com/
-
-    - name: 多维
-      style: basic
-      url: https://www.dwnews.com/
-      
-    - name: 明镜网
-      style: basic
-      url: http://news.mingjingnews.com/
-
-    - name: 看中国
-      icon: eye yellow
-      style: basic
-      url: https://www.secretchina.com/
-
-    - name: 美国之音
-      style: basic
-      url: https://www.voachinese.com/
 
   - name: 社交
     links:
