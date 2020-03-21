@@ -190,6 +190,7 @@
       url: http://www.sinovision.net/
 
     - name: 阿波罗
+      icon: sun outline orange
       style: basic
       url: https://www.aboluowang.com/
 
