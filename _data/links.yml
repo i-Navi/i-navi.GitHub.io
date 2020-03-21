@@ -103,7 +103,7 @@
       style: basic
       url: https://acfun.cn/
 
-    - name: 虾米
+    - name: 虾米音乐
       style: basic
       url: https://xiami.com/
 
@@ -112,12 +112,12 @@
       style: basic
       url: https://movie.douban.com/
 
-    - name: FIX
+    - name: FIX字幕组
       style: yellow
       url: http://www.zimuxia.cn/
 
-    - name: 弯弯
-      style: blue
+    - name: 弯弯字幕组
+      style: basic
       url: http://wanwansub.com/node/139
 
     - name: 影视基地
@@ -133,7 +133,8 @@
       url: https://www.cdnbus.cloud/
 
     - name: 比特球云盘
-      style: blue
+      icon: cloud blue
+      style: basic
       url: https://pan.bitqiu.com/
 
     - name: 虎牙
@@ -158,7 +159,7 @@
       style: orange
       url: https://cn.reuters.com/
 
-    - name: 法广
+    - name: 法国国际广播电台
       style: basic
       url: http://www.rfi.fr/cn/
 
@@ -183,7 +184,7 @@
       url: http://www.sinovision.net/
 
     - name: 阿波罗
-      style: yellow
+      style: basic
       url: https://www.aboluowang.com/
 
     - name: 数字时代
@@ -199,7 +200,7 @@
       url: https://boxun.com/
 
     - name: 多维
-      style: brown
+      style: basic
       url: https://www.dwnews.com/
       
     - name: 明镜网
@@ -207,7 +208,7 @@
       url: http://news.mingjingnews.com/
 
     - name: 看中国
-      style: orange
+      style: brown
       url: https://www.secretchina.com/
 
     - name: 美国之音
@@ -348,7 +349,7 @@
       url: http://open.163.com/
 
     - name: 云英语
-      style: black
+      style: basic
       url: https://www.y-english.org/
 
     - name: Coursera
@@ -393,7 +394,7 @@
     links:
     - name: Fomantic-Icon
       icon: facebook square teal
-      style: pink
+      style: basic
       url: https://fomantic-ui.com/elements/icon.html
 
     - name: 颜色码对照表
