@@ -5,8 +5,13 @@
         {%- else -%}
             {%- if site.data.banner.link -%}
                 
-   
-        <a class="item"><iframe src="https://www.cctv.com/homepage/46/index.shtml" name="test" align="MIDDLE" width="354" height="20" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></a>
+   <a class="ui {{ site.data.banner.color }} pointing below {% unless site.data.banner.icon %}{% if site.data.banner.image %}image {% endif %}{% endunless %}label" href="{{ site.data.banner.link }}" target="_blank">{% if site.data.banner.icon %}<i class="{{ site.data.banner.icon }} icon"></i>{% elsif site.data.banner.image %}<img src="{{ site.data.banner.image }}" alt="Message Image">{% endif %}{{ site.data.banner.content }}{% if site.data.banner.detail %}<div class="detail">{{ site.data.banner.detail }}</div>{% endif %}
+    
+   <iframe src="https://www.cctv.com/homepage/46/index.shtml" name="test" align="MIDDLE" width="354" height="20" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe> 
+    
+    
+    </a>
+       <iframe src="https://www.cctv.com/homepage/46/index.shtml" name="test" align="MIDDLE" width="354" height="20" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
    
     
     
