@@ -268,7 +268,7 @@
     - name: Chrome扩展
       icon: chrome red
       style: basic
-      url: http://webact.185.hk/?u=tieba
+      url: https://chrome.google.com/webstore/category/extensions?hl=zh-CN
 
     - name: 自由上网方法
       icon: paper plane blue
