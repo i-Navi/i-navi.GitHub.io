@@ -275,8 +275,8 @@
   - name: 软件
     links:
     - name: 自由上网方法
-      icon: paper plane
-      style: teal
+      icon: paper plane blue
+      style: basic
       url: https://github.com/Alvin9999/new-pac/wiki
 
     - name: 网页激活
