@@ -105,6 +105,7 @@
       url: https://www.acfun.cn/
 
     - name: 虾米音乐
+      icon: music Orange
       style: basic
       url: https://xiami.com/
 
