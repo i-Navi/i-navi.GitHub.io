@@ -1,76 +1,6 @@
 
 
 - categories:
-  - name: 新闻
-    links:
-    - name: 纽约时报
-      style: black
-      url: https://cn.nytimes.com/
-
-    - name: BBC中文网
-      style: black
-      url: https://www.bbc.com/zhongwen/simp
-
-    - name: 路透社
-      style: orange
-      url: https://cn.reuters.com/
-
-    - name: 法广
-      style: basic
-      url: http://www.rfi.fr/cn/
-
-    - name: 先驱报
-      style: basic
-      url: https://www.chineseherald.co.nz/
-
-    - name: 联合早报
-      style: basic
-      url: http://www.zaobao.com/
-
-    - name: 朝日新闻
-      style: basic
-      url: https://asahichinese-j.com/
-      
-    - name: NHK华语视界
-      style: red
-      url: https://www3.nhk.or.jp/nhkworld/zh/live/
-      
-    - name: 美国中文网
-      style: basic
-      url: http://www.sinovision.net/
-
-    - name: 阿波罗
-      style: yellow
-      url: https://www.aboluowang.com/
-
-    - name: 数字时代
-      style: blue
-      url: https://chinadigitaltimes.net/chinese/
-
-    - name: 万维读者
-      style: basic
-      url: http://www.creaders.net/
-
-    - name: 博讯
-      style: basic
-      url: https://boxun.com/
-
-    - name: 多维
-      style: brown
-      url: https://www.dwnews.com/
-      
-    - name: 明镜网
-      style: basic
-      url: http://news.mingjingnews.com/
-
-    - name: 看中国
-      style: orange
-      url: https://www.secretchina.com/
-
-    - name: 美国之音
-      style: basic
-      url: https://www.voachinese.com/
-
   - name: 工具
     links:
     - name: 维基百科
@@ -137,107 +67,6 @@
       icon: google red
       style: basic
       url: https://mail.google.com/
-
-  - name: 社交
-    links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
-
-    - name: 微信网页版
-      icon: weixin green
-      style: basic
-      url: https://wx.qq.com/
-
-    - name: 百度贴吧
-      icon: paw blue
-      style: basic
-      url: https://tieba.baidu.com/
-
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-
-    - name: Facebook
-      icon: facebook f blue
-      style: basic
-      url: https://www.facebook.com/
-
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
-
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/BYR-Navi/
-
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-
-  - name: 学习
-    links:
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
-    - name: W3School
-      style: basic
-      url: http://www.w3school.com.cn/
-
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
 
   - name: 娱乐
     links:
@@ -315,11 +144,147 @@
       style: basic
       url: https://www.douyu.com/
 
-- categories:
-  - name: 软件博客
+  - name: 新闻
     links:
+    - name: 纽约时报
+      style: black
+      url: https://cn.nytimes.com/
+
+    - name: BBC中文网
+      style: black
+      url: https://www.bbc.com/zhongwen/simp
+
+    - name: 路透社
+      style: orange
+      url: https://cn.reuters.com/
+
+    - name: 法广
+      style: basic
+      url: http://www.rfi.fr/cn/
+
+    - name: 先驱报
+      style: basic
+      url: https://www.chineseherald.co.nz/
+
+    - name: 联合早报
+      style: basic
+      url: http://www.zaobao.com/
+
+    - name: 朝日新闻
+      style: basic
+      url: https://asahichinese-j.com/
+      
+    - name: NHK华语视界
+      style: red
+      url: https://www3.nhk.or.jp/nhkworld/zh/live/
+      
+    - name: 美国中文网
+      style: basic
+      url: http://www.sinovision.net/
+
+    - name: 阿波罗
+      style: yellow
+      url: https://www.aboluowang.com/
+
+    - name: 数字时代
+      style: blue
+      url: https://chinadigitaltimes.net/chinese/
+
+    - name: 万维读者
+      style: basic
+      url: http://www.creaders.net/
+
+    - name: 博讯
+      style: basic
+      url: https://boxun.com/
+
+    - name: 多维
+      style: brown
+      url: https://www.dwnews.com/
+      
+    - name: 明镜网
+      style: basic
+      url: http://news.mingjingnews.com/
+
+    - name: 看中国
+      style: orange
+      url: https://www.secretchina.com/
+
+    - name: 美国之音
+      style: basic
+      url: https://www.voachinese.com/
+
+  - name: 社交
+    links:
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://weibo.com/
+
+    - name: 微信网页版
+      icon: weixin green
+      style: basic
+      url: https://wx.qq.com/
+
+    - name: 百度贴吧
+      icon: paw blue
+      style: basic
+      url: https://tieba.baidu.com/
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: https://www.quora.com/
+
+    - name: Facebook
+      icon: facebook f blue
+      style: basic
+      url: https://www.facebook.com/
+
+    - name: Google+
+      icon: google plus g red
+      style: basic
+      url: https://plus.google.com/
+
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: https://www.tumblr.com/
+
+    - name: Instagram
+      icon: instagram pink
+      style: basic
+      url: https://www.instagram.com/
+
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/BYR-Navi/
+
+    - name: LinkedIn
+      icon: linkedin blue
+      style: basic
+      url: https://www.linkedin.com/
+
+  - name: 软件
+    links:
+    - name: 自由上网方法
+      icon: paper plane
+      style: teal
+      url: https://github.com/Alvin9999/new-pac/wiki
+
+    - name: 网页激活
+      icon: microsoft blue
+      style: basic
+      url: http://webact.185.hk/?u=tieba
+
     - name: 老D博客
-      style: Blue
+      style: basic
       url: https://laod.cn/
 
     - name: 胡萝卜周
@@ -373,6 +338,52 @@
     #- name: VPN服务
     #  style: basic
     #  url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
+
+
+- categories:
+  - name: 在线学习
+    links:
+    - name: 网易公开课
+      style: red
+      url: http://open.163.com/
+
+    - name: 云英语
+      style: black
+      url: https://www.y-english.org/
+
+    - name: Coursera
+      style: basic
+      url: https://www.coursera.org/
+
+    - name: MOOC
+      style: basic
+      url: http://mooc.org/
+
+    - name: W3School
+      style: basic
+      url: http://www.w3school.com.cn/
+
+    - name: Stack Overflow
+      icon: stack overflow orange
+      style: basic
+      url: https://stackoverflow.com/
+
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
+
+    - name: Tutorials Point
+      style: basic
+      url: https://www.tutorialspoint.com/
+
+    - name: Google Open Source
+      icon: code blue
+      style: basic
+      url: https://opensource.google.com/
+
+    - name: CSDN
+      style: basic
+      url: https://edu.csdn.net/
 
     #- name: 空闲自习室查询
     #  style: basic
@@ -443,16 +454,6 @@
 
   - name: 论坛相关
     links:
-    - name: 自由上网方法
-      icon: paper plane Blue
-      style: teal
-      url: https://github.com/Alvin9999/new-pac/wiki
-
-    - name: 网页激活
-      icon: microsoft White
-      style: black
-      url: http://webact.185.hk/?u=tieba
-
     - name: GPS之家
       icon: map marked alternate White
       style: black
