@@ -70,6 +70,11 @@
 
   - name: 娱乐
     links:
+    - name: Youtube
+      icon: youtube red
+      style: basic
+      url: https://youtube.com/
+
     - name: 优酷
       style: basic
       url: https://youku.com/
@@ -86,14 +91,10 @@
       style: green
       url: https://iqiyi.com/
 
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
-
-    - name: Youtube
-      icon: youtube red
+    - name: 人人影视
+      icon: renren blue
       style: basic
-      url: https://youtube.com/
+      url: http://www.yyetss.com/
 
     - name: 哔哩哔哩
       style: pink
