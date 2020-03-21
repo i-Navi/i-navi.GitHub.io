@@ -304,35 +304,23 @@
     - name: 网易公开课
       style: red
       url: http://open.163.com/
+      
+    - name: cnBeta
+      style: basic
+      url: https://www.cnbeta.com/
 
     - name: 云英语
       style: basic
       url: https://www.y-english.org/
 
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
     - name: W3School
       style: basic
       url: http://www.w3school.com.cn/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
 
-    - name: SegmentFault
+    - name: 思否
       style: basic
       url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
 
     - name: Google Open Source
       icon: code blue
@@ -388,6 +376,14 @@
       icon: map marked alternate White
       style: black
       url: http://bbs.gpsuu.com/
+      
+    - name: 远景论坛
+      style: basic
+      url: http://www.pcbeta.com/
+      
+    - name: 爱好论坛
+      style: basic
+      url: http://www.aihao.cc/
 
     - name: 电影天堂
       style: basic
@@ -408,11 +404,3 @@
     - name: HD-China
       style: basic
       url: https://www.hdchina.net/
-
-    - name: 爱好论坛
-      style: basic
-      url: http://www.aihao.cc/
-
-    - name: 老百姓虎
-      style: basic
-      url: https://www.laobaixinghu.com/
